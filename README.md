@@ -243,9 +243,9 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ## License
 
-MIT © [ClawFi](https://github.com/ClawFiAI)
+MIT © [ClawFi](https://github.com/ClawFiSOL)
 
 ## Related
 
-- [dexscreener-ts](https://github.com/ClawFiAI/dexscreener-ts) - Dexscreener API wrapper
-- [ClawFi Extension](https://github.com/ClawFiAI/clawfi-extension) - Browser extension
+- [dexscreener-ts](https://github.com/ClawFiSOL) - Dexscreener API wrapper
+- [ClawFi Extension](https://github.com/ClawFiSOL) - Browser extension
